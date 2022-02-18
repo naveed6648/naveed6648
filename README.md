@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveed6648
-- 👀 I’m interested in python
+- 👀 I’m interested in python and arduino programming.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me naveed.awais@abo.fi
